@@ -1,2 +1,2 @@
 # Roster-App
-graphical user interface 
+Graphical user interface for roster maker compiler, automation of schedule.
